@@ -19,6 +19,6 @@ TTS
 pydub
 numpy
 scipy
-
-
+streamlit
+sounddevice
 
