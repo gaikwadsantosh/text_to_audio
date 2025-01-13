@@ -1,0 +1,102 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.4">
+  <diagram name="Page-1" id="S6XFcOWp4jm5lCx8M9kw">
+    <mxGraphModel dx="1031" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uOuCsod9i9Sa29Vj8S1l-19" value="" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=17;fontColor=#0000CC;" parent="1" vertex="1">
+          <mxGeometry x="26" y="71" width="790" height="319" as="geometry" />
+        </mxCell>
+        <mxCell id="CdPqk8oOQ6x4uFAR81pq-11" value="&lt;div&gt;&lt;div&gt;Users&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fad7ac;strokeColor=#b46504;fontStyle=1;fontColor=#0000CC;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="260" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="uOuCsod9i9Sa29Vj8S1l-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="56" y="196" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uOuCsod9i9Sa29Vj8S1l-2" value="&lt;div&gt;&lt;div&gt;Process Manuscript file to Generate High Quality ACX standard Audios&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fad7ac;strokeColor=#b46504;fontStyle=1;fontColor=#0000CC;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="309" y="91" width="490" height="279" as="geometry" />
+        </mxCell>
+        <mxCell id="uOuCsod9i9Sa29Vj8S1l-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uOuCsod9i9Sa29Vj8S1l-6" target="uOuCsod9i9Sa29Vj8S1l-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uOuCsod9i9Sa29Vj8S1l-6" value="Extract Text from manuscript" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="339" y="159" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uOuCsod9i9Sa29Vj8S1l-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uOuCsod9i9Sa29Vj8S1l-7" target="uOuCsod9i9Sa29Vj8S1l-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uOuCsod9i9Sa29Vj8S1l-7" value="Split Chapters" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="489" y="159" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uOuCsod9i9Sa29Vj8S1l-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uOuCsod9i9Sa29Vj8S1l-8" target="uOuCsod9i9Sa29Vj8S1l-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uOuCsod9i9Sa29Vj8S1l-8" value="Clean &amp;amp; Prepare text for narration" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="639" y="159" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uOuCsod9i9Sa29Vj8S1l-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uOuCsod9i9Sa29Vj8S1l-11" target="uOuCsod9i9Sa29Vj8S1l-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uOuCsod9i9Sa29Vj8S1l-11" value="Generate Audio" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="639" y="259" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uOuCsod9i9Sa29Vj8S1l-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="uOuCsod9i9Sa29Vj8S1l-13" target="uOuCsod9i9Sa29Vj8S1l-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uOuCsod9i9Sa29Vj8S1l-13" value="Apply&amp;nbsp;ACX standards&lt;div&gt;&amp;amp; Split audio in 1hr max&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="489" y="259" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uOuCsod9i9Sa29Vj8S1l-15" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Upload PDF Manuscript&amp;nbsp;&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.422;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontSize=13;" parent="1" edge="1">
+          <mxGeometry x="-0.0759" y="6" relative="1" as="geometry">
+            <mxPoint x="86" y="226.58333333333337" as="sourcePoint" />
+            <mxPoint x="309.98" y="226.5999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="198" y="227" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uOuCsod9i9Sa29Vj8S1l-16" value="Download / Stream Audio" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=13;" parent="1" edge="1">
+          <mxGeometry x="-0.022" y="10" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="308" y="250" />
+            </Array>
+            <mxPoint x="310" y="250" as="sourcePoint" />
+            <mxPoint x="89" y="250" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uOuCsod9i9Sa29Vj8S1l-17" value="Store high quality Audios" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="339" y="259" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CdPqk8oOQ6x4uFAR81pq-1" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="186" y="190" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdPqk8oOQ6x4uFAR81pq-2" value="2" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="394" y="134" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdPqk8oOQ6x4uFAR81pq-3" value="3" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="536" y="134" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdPqk8oOQ6x4uFAR81pq-4" value="4" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="689" y="134" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdPqk8oOQ6x4uFAR81pq-5" value="5" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="689" y="329" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdPqk8oOQ6x4uFAR81pq-6" value="6" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="539" y="329" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdPqk8oOQ6x4uFAR81pq-7" value="7" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="389" y="329" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdPqk8oOQ6x4uFAR81pq-8" value="8" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
+          <mxGeometry x="186" y="270" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CdPqk8oOQ6x4uFAR81pq-10" value="&lt;span style=&quot;color: rgb(0, 0, 204); font-size: 17px;&quot;&gt;High Level Block Diagram&amp;nbsp;&lt;/span&gt;&lt;font style=&quot;color: rgb(0, 0, 204); font-size: 17px;&quot;&gt;(Book Translator System&lt;span style=&quot;&quot;&gt;)&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="26" y="40" width="790" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
